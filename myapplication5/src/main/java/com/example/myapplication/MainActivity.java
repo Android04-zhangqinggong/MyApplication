@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
             }
             tv.setText("我是第" + position + "个View");
             return tv;
+
         }
     }
 }
